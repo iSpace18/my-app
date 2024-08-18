@@ -7,6 +7,7 @@ body {
 
 .header {
   background: url(img/Component\ 19.png);
+
   color: white;
   padding: 20px;
   height: 575px;
@@ -63,6 +64,7 @@ body {
 
 .profile-container {
   position: relative;
+  /* width: 00px; */
   padding: 30px;
   text-align: center;
 }
@@ -72,7 +74,7 @@ body {
   top: -350px;
   left: 100px;
   width: 308px;
-  height: 910px;
+  height: 700px;
   background-color: #ffffff;
   border-radius: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -82,7 +84,7 @@ body {
 
 .profile-card img {
   width: 100%;
-  top: 50px;
+  top: 25px;
   position: relative;
   border-radius: 10px;
   margin-bottom: 15px;
@@ -90,21 +92,20 @@ body {
 
 .profile-card .info {
   margin-bottom: 15px;
-  top: 50px;
+  top: 10px;
   position: relative;
 }
 
 .profile-card .info p {
   margin: 5px 0;
-  font-size: 14px;
-  
+  font-size:14px;
 }
 
 .profile-card .btn {
   display: block;
   width: 100%;
   padding: 10px;
-  top: 50px;
+  top: 0px;
   position: relative;
   margin-bottom: 10px;
   -webkit-box-shadow: 0px 0px 20px 4px rgba(0, 0, 0, 0.2);
@@ -124,10 +125,18 @@ body {
   border-radius: 25px;
   cursor: pointer;
 }
+.proffoto {
+  top: -5px;
+  position: relative;
+  margin-right: 10px;
+}
+.qwe12 {
+  margin-right: 10px;
+}
 
 .btnrgb {
-    top: 50px;
-    position: relative;
+  top: 0px;
+  position: relative;
   display: block;
   width: 100%;
   padding: 10px;
@@ -149,7 +158,7 @@ body {
 .profile-name {
   width: 709px;
   height: 370px;
-  top: 210px;
+  top: 100px;
   left: 556px;
   gap: 0px;
   opacity: 0px;
@@ -160,18 +169,11 @@ body {
   line-height: 184.96px;
   text-align: left;
   position: relative;
-  top: -450px;
+  top: -400px;
   color: white;
 }
 
-.tabs {
-  display: flex;
-  text-align: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin: 20px 0;
-  top: -445px;
-}
+
 
 .tabs button {
   width: 208px;
@@ -201,7 +203,7 @@ body {
   width: 208px;
   height: 56px;
   text-align: center;
-  top: -465px;
+  top: -400px;
   position: relative;
   gap: 0px;
   border-radius: 25px;
@@ -233,35 +235,98 @@ body {
 }
 
 .content {
+  left: 650px;
+  position: relative;
   text-align: center;
   padding: 50px 0;
   font-size: 24px;
-  top: -500px;
-  position: relative;
+  top: -450px;
   font-family: Manrope;
+  width: 500px;
   font-size: 50px;
   font-weight: 500;
   line-height: 68.3px;
-  left: 150px;
   text-align: center;
-
   color: #038ba8;
 }
 
 .form-container {
-  top: -500px;
-  right: 320px;
-  position: relative;
-  text-align: center;
-}
-
-.form-container input {
-  display: block;
-  width: 300px;
-  margin: 10px auto;
-  padding: 10px;
-  background-color: #e9e9e9;
-  font-size: 16px;
-  border: none;
-  border-radius: 10px;
-}
+    display: grid;
+    position: relative;
+    max-width: 400px;
+    left: 450px;
+    place-items: center;
+    margin-top: 50px; 
+  }
+  
+  .form-container input {
+    display: block;
+    width: 300px;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #e9e9e9;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+  }
+  .vxbxbvc{
+    filter: invert(1);
+    width: 25px;
+    top: 4px;
+    position: relative;
+    height: 25px;
+  }
+  .qryt{
+    position: relative;
+    top: 4px;
+  }
+  .nnnn{
+    position: relative;
+    max-width: 50px;
+    height: 50px;
+    left: 250px;
+    margin-top: -40px;
+  }
+  .chel{
+    position: relative;
+    top: -150px
+  }
+  .mayak{
+    left: -162px;
+    margin-top: -50px;
+    width: 15px;
+    top: 50px;
+    height: 22px;
+    position: relative;
+    display: flex;
+        
+  }
+  .adf{
+    left: 10px;
+    top: 0px;
+    position: relative;
+  }
+  .rrr{
+    max-width: 22px;
+    height: 22px;
+    left: -17px;
+  }
+  .ppp{
+    top: -17px;
+    left: 15px;
+    position: relative;
+  }
+  .vbvb{
+    display: flex;
+    position: relative;
+    margin-top: -65px;
+    left: 70px;
+    max-width: 25px;
+    height: 20px;
+  }
+  .z123zxc{
+position: relative;
+display: flex;
+top: -7px;
+left: 100px;
+  }
