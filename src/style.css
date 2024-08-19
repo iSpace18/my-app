@@ -43,7 +43,6 @@ body {
   align-items: center;
   right: 0px;
 }
-
 .header .nav a {
   color: white;
   text-decoration: none;
@@ -98,7 +97,7 @@ body {
 
 .profile-card .info p {
   margin: 5px 0;
-  font-size:14px;
+  font-size: 14px;
 }
 
 .profile-card .btn {
@@ -172,8 +171,6 @@ body {
   top: -400px;
   color: white;
 }
-
-
 
 .tabs button {
   width: 208px;
@@ -251,82 +248,82 @@ body {
 }
 
 .form-container {
-    display: grid;
-    position: relative;
-    max-width: 400px;
-    left: 450px;
-    place-items: center;
-    margin-top: 50px; 
-  }
-  
-  .form-container input {
-    display: block;
-    width: 300px;
-    margin: 10px auto;
-    padding: 10px;
-    background-color: #e9e9e9;
-    font-size: 16px;
-    border: none;
-    border-radius: 10px;
-  }
-  .vxbxbvc{
-    filter: invert(1);
-    width: 25px;
-    top: 4px;
-    position: relative;
-    height: 25px;
-  }
-  .qryt{
-    position: relative;
-    top: 4px;
-  }
-  .nnnn{
-    position: relative;
-    max-width: 50px;
-    height: 50px;
-    left: 250px;
-    margin-top: -40px;
-  }
-  .chel{
-    position: relative;
-    top: -150px
-  }
-  .mayak{
-    left: -162px;
-    margin-top: -50px;
-    width: 15px;
-    top: 50px;
-    height: 22px;
-    position: relative;
-    display: flex;
-        
-  }
-  .adf{
-    left: 10px;
-    top: 0px;
-    position: relative;
-  }
-  .rrr{
-    max-width: 22px;
-    height: 22px;
-    left: -17px;
-  }
-  .ppp{
-    top: -17px;
-    left: 15px;
-    position: relative;
-  }
-  .vbvb{
-    display: flex;
-    position: relative;
-    margin-top: -65px;
-    left: 70px;
-    max-width: 25px;
-    height: 20px;
-  }
-  .z123zxc{
-position: relative;
-display: flex;
-top: -7px;
-left: 100px;
-  }
+  display: grid;
+  position: relative;
+  max-width: 400px;
+  left: 450px;
+  place-items: center;
+  margin-top: 50px;
+}
+
+.form-container input {
+  display: block;
+  width: 300px;
+  margin: 10px auto;
+  padding: 10px;
+  background-color: #e9e9e9;
+  font-size: 16px;
+  border: none;
+  border-radius: 10px;
+}
+.vxbxbvc {
+  filter: invert(1);
+  width: 25px;
+  top: 4px;
+  position: relative;
+  height: 25px;
+}
+.qryt {
+  position: relative;
+  top: 4px;
+}
+.nnnn {
+  cursor: pointer;
+  position: relative;
+  max-width: 50px;
+  height: 50px;
+  left: 250px;
+  margin-top: -40px;
+}
+.chel {
+  position: relative;
+  top: -150px;
+}
+.mayak {
+  left: -162px;
+  margin-top: -50px;
+  width: 15px;
+  top: 50px;
+  height: 22px;
+  position: relative;
+  display: flex;
+}
+.adf {
+  left: 10px;
+  top: 0px;
+  position: relative;
+}
+.rrr {
+  max-width: 22px;
+  height: 22px;
+  left: -17px;
+}
+.ppp {
+  top: -17px;
+  left: 15px;
+  position: relative;
+}
+.vbvb {
+  display: flex;
+  position: relative;
+  margin-top: -65px;
+  left: 70px;
+  max-width: 25px;
+  height: 20px;
+}
+.z123zxc {
+  position: relative;
+  display: flex;
+  top: -7px;
+  left: 100px;
+}
