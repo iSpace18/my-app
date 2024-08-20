@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Manrope;
   margin: 0;
   padding: 0;
   background-color: #f4f4f4;
@@ -176,6 +176,12 @@ body {
   width: 208px;
   height: 56px;
   text-align: center;
+  font-family: Manrope;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 34.15px;
+  text-align: left;
+
   gap: 0px;
   border-radius: 25px;
   opacity: 0px;
