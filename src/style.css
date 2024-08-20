@@ -160,7 +160,6 @@ body {
   top: 0px;
   left: 456px;
   gap: 0px;
-  opacity: 0px;
   display: flex;
   font-family: Jost;
   font-size: 128px;
@@ -184,7 +183,6 @@ body {
 
   gap: 0px;
   border-radius: 25px;
-  opacity: 0px;
   background-color: white;
   color: #038b89;
   margin: 5px;
