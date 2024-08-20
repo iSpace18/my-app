@@ -83,7 +83,7 @@ body {
 
 .profile-card img {
   width: 100%;
-  top: 25px;
+  top: 20px;
   position: relative;
   border-radius: 10px;
   margin-bottom: 15px;
@@ -157,8 +157,8 @@ body {
 .profile-name {
   width: 709px;
   height: 370px;
-  top: 100px;
-  left: 556px;
+  top: 0px;
+  left: 456px;
   gap: 0px;
   opacity: 0px;
   display: flex;
@@ -290,7 +290,7 @@ body {
   max-width: 50px;
   height: 50px;
   left: 250px;
-  margin-top: -40px;
+  margin-top: -30px;
 }
 .chel {
   position: relative;
