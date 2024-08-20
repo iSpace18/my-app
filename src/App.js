@@ -130,12 +130,12 @@ function App() {
 
       <div className="content">У вас пока ничего нет</div>
 
-      <div className="form-container">
+      {/* <div className="form-container">
         <input type="email" placeholder="Почта" />
         <input type="tel" placeholder="Telegram" />
         <input type="password" placeholder="Пароль" />
         <input type="password" placeholder="Подтвердите пароль" />
-      </div>
+      </div> */}
        {/* Модальное окно */}
       <Modal isOpen={isModalOpen} onClose={closeModal} />
     </div>

@@ -258,6 +258,7 @@ body {
   position: relative;
   max-width: 400px;
   left: 450px;
+  top: -500px;
   place-items: center;
   margin-top: 50px;
 }
