@@ -121,6 +121,7 @@ body {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   border: none;
+  background-clip:text ;
   border-radius: 25px;
   cursor: pointer;
 }
